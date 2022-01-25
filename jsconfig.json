@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@resources/*": ["resources/*"],
+      "@utils/*": ["utils/*"],
+      "@semantic-ui/*": ["semantic-ui/*"]
+    }
+  },
+  "include": ["src"]
+}
